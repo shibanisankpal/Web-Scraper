@@ -16,7 +16,7 @@ This project aims to demonstrate how web scraping can be implemented using Pytho
 -Option to specify a class name to target specific elements.
 -Display of scraped content on the web page.
 
-Link to application deployed on Streamlit Community Cloud: 
+## Link to application deployed on Streamlit Community Cloud: [Web Scraper](https://web-scra-project.streamlit.app/)
 
 ## Installation
 To run this project locally, follow these steps:
